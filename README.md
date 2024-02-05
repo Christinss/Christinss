@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Christinss
-- 👀 I’m interested in Mobile Development for Android
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m an Android Engineer
 
 <!---
 Christinss/Christinss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
